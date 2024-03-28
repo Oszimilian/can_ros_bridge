@@ -1,0 +1,2 @@
+py_test:tutorial2
+-DCATKIN_DEVEL_PREFIX=/VsRosTest/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/VsRosTest/catkin_ws/install -G Unix Makefiles
